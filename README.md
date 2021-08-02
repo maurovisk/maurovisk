@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @maurovisk
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I'm currently a year learning how to survive the home office
+
 
 <div>
 <a href="https://github.com/maurovisk">
