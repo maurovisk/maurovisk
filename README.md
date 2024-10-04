@@ -8,5 +8,8 @@ Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
 <div>
 <a href="https://github.com/maurovisk">
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maurovisk&show_icons=true&theme=dracula&include_allcommits=true&count_private=true" />
+</a>
+<a href="https://github.com/maurovisk">
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maurovisk&show_icons=true&theme=dracula&layout=compact" />
+</a>
 </div>
