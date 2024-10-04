@@ -12,4 +12,10 @@ Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
 <a href="https://github.com/maurovisk">
 <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maurovisk&show_icons=true&theme=dracula&layout=compact" />
 </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
