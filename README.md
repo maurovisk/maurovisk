@@ -5,7 +5,7 @@
 
 Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurovisk)](https://github.com/maurovisk)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurovisk&layout=compact)](https://github.com/maurovisk)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maurovisk)](https://github.com/maurovisk)
+
 
