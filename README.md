@@ -4,5 +4,5 @@
 - 🌱 I'm currently a year learning how to survive the home office
 
 Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
-<img src='https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true' />
+<img src='https://github-readme-stats.vercel.app/api?username=maurovisk&count_private=true' />
 
