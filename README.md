@@ -5,7 +5,7 @@
 
 Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurovisk&count_private=true)](https://github.com/maurovisk)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurovisk&layout=compact&count_private=true)](https://github.com/maurovisk)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maurovisk&count_private=true&theme=dark&show_icons=true)](https://github.com/maurovisk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurovisk&layout=compact&count_private=true&theme=dark&show_icons=true)](https://github.com/maurovisk)
 
 
