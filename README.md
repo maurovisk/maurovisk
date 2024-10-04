@@ -7,5 +7,5 @@ Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurovisk&layout=compact)](https://github.com/maurovisk)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maurovisk)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maurovisk)](https://github.com/maurovisk)
 
