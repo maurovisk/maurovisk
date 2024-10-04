@@ -7,5 +7,5 @@ Lesen Sie das Handbuch, auch wenn es auf Deutsch ist
 
 [!(https://github-readme-stats.vercel.app/api/pin/?username=maurovisk)]
 [!(https://github-readme-stats.vercel.app/api/top-langs/?username=maurovisk)]
-</div>
+
 
